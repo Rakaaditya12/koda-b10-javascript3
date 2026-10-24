@@ -1,0 +1,26 @@
+{
+  "name": "koda-b10-javascript3",
+  "version": "1.0.0",
+  "description": "Membuat perulangan di javascript menggunakan for",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "lint": "eslint *.js *.mjs *.cjs",
+    "lint:fix": "eslint *.js *.mjs *.cjs --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakaaditya12/koda-b10-javascript3.git"
+  },
+  "keywords": [],
+  "author": "Raka Aditya",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "eslint": "^10.13.0",
+    "globals": "^17.13.0"
+  }
+}
